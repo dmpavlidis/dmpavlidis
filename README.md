@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dimitris Pavlidis
 - 👀 I’m interested in IT, IoT, maritime and smart vessels!
-- 🌱 I’m currently learning how to further develop a devops oriented mindset.
+
 
 
 <!---
